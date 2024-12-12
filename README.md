@@ -76,8 +76,8 @@ This project consists of a backend service for data storage and a frontend inter
 1. **Swagger/OpenAPI**:
    - Access API documentation at `/swagger-ui.html` after running the backend.
 2. **UML Diagram**:
-   - Refer to the UML diagram in the `docs/uml-diagram.png` file for the database model.
+   - Refer to the UML diagram in the `docs/diagram.png` file for the database model.
 3. **Postman Collection**:
-   - Use the provided Postman collection (`docs/postman-collection.json`) for testing the API endpoints.
+   - Use the provided Postman collection (`docs/PCBM - PC Build Manager.postman_collection.json`) for testing the API endpoints.
 
 
